@@ -1,0 +1,24 @@
+:root{
+    --main-color:#343a40;
+}
+
+body{
+    background-color: var(--main-color);
+    color:#ccc;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    padding: auto;
+    font-size: 2em;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
